@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/DoktorMike/pymario/compare/v1.0.0...v1.0.1) (2022-08-13)
+
+
+### Other
+
+* Added more for the documentation. ([8450a05](https://github.com/DoktorMike/pymario/commit/8450a0508d2d9c1e1c010bd3ecbfc2c6ad87fe7b))
+
 ## 1.0.0 (2022-08-13)
 
 
